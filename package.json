@@ -1,0 +1,27 @@
+{
+  "name": "express-mongodb-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KogaYamada/express-mongodb-test.git"
+  },
+  "keywords": [],
+  "author": "KogaYamada <koga0087y@gmail.com> (https://github.com/KogaYamada)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KogaYamada/express-mongodb-test/issues"
+  },
+  "homepage": "https://github.com/KogaYamada/express-mongodb-test#readme",
+  "dependencies": {
+    "@types/express": "^4.17.7",
+    "@types/mongoose": "^5.7.36",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28",
+    "typescript": "^3.9.7"
+  }
+}
